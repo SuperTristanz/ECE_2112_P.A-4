@@ -75,12 +75,12 @@
 ### Code To Solve The Problem: 
 #### ![image](https://github.com/user-attachments/assets/0a584a06-0f0a-4dce-96b8-85f112aeff14)
 
-#### plt.figure(figsize = (5,5))  we  use ply.figure to set how big in x and y axis of the graph
-#### track = plt.bar(df['Gender'], df['Average']) utilizing this function to set what should we input unto the bar graph
-#### plt.xlabel('Gender')  we use this function to name the Graph on the x axis
-#### plt.ylabel('Average')  we use this function to name the Graph on the y axis
-#### plt.title('Average by Gender')  we use this function to name the Entire Graph
-### plt.show()  utilizing this function we can see the data
+#### - plt.figure(figsize = (5,5))  we  use ply.figure to set how big in x and y axis of the graph
+#### - track = plt.bar(df['Gender'], df['Average']) utilizing this function to set what should we input unto the bar graph
+#### - plt.xlabel('Gender')  we use this function to name the Graph on the x axis
+#### - plt.ylabel('Average')  we use this function to name the Graph on the y axis
+#### - plt.title('Average by Gender')  we use this function to name the Entire Graph
+### - plt.show()  utilizing this function we can see the data
 
 ### Ouput Of the Code:
 # ![image](https://github.com/user-attachments/assets/c5496f42-cc46-4b96-b927-c8b334791e74)
@@ -90,12 +90,12 @@
 ### Code To Solve the Problem: 
 # ![image](https://github.com/user-attachments/assets/af33abcb-5090-4d06-9064-25623eb9b3b7)
 
-#### plt.figure(figsize = (5,5))  we  use ply.figure to set how big in x and y axis of the graph
-#### track = plt.bar(df['Hometown'], df['Average']) utilizing this function to set what should we input unto the bar graph
-#### plt.xlabel('Hometown')  we use this function to name the Graph on the x axis
-#### plt.ylabel('Average')  we use this function to name the Graph on the y axis
-#### plt.title('Average Score by Hometown')  we use this function to name the Entire Graph
-### plt.show()  utilizing this function we can see the data
+#### - plt.figure(figsize = (5,5))  we  use ply.figure to set how big in x and y axis of the graph
+#### - track = plt.bar(df['Hometown'], df['Average']) utilizing this function to set what should we input unto the bar graph
+#### - plt.xlabel('Hometown')  we use this function to name the Graph on the x axis
+#### - plt.ylabel('Average')  we use this function to name the Graph on the y axis
+#### - plt.title('Average Score by Hometown')  we use this function to name the Entire Graph
+#### - plt.show()  utilizing this function we can see the data
 
 ### Output of the Code: 
 # ![image](https://github.com/user-attachments/assets/d00af531-a893-47fc-8038-1172b0365077)
